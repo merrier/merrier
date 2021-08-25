@@ -5,8 +5,8 @@
 [![Youtube Badge](https://img.shields.io/badge/-merrier-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/merrier)](https://www.youtube.com/c/merrier)
 [![Medium Badge](https://img.shields.io/badge/-@merrier-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@merrier/)](https://medium.com/@merrier) -->
 
-[![](https://img.shields.io/badge/-w953075999-1DDC58?style=flat-square&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/chokcoco/chokcoco/main/wechat_qrcode.png)
-[![](https://img.shields.io/badge/-953075999-ED9A0F?style=flat-square&logo=tencentqq&logoColor=white)](#953075999)
+[![](https://img.shields.io/badge/-w953075999-1DDC58?style=flat-square&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/merrier/merrier/main/wechat_qrcode.png)
+[![](https://img.shields.io/badge/-953075999-ED9A0F?style=flat-square&logo=tencentqq&logoColor=white)](https://raw.githubusercontent.com/merrier/merrier/main/qq_qrcode.png)
 [![Gmail Badge](https://img.shields.io/badge/-merrier1993@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:merrier1993@gmail.com)](mailto:merrier1993@gmail.com)
 [![](https://img.shields.io/badge/-merrier-%23181717?style=flat-square&logo=github)](https://github.com/merrier)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=merrier.wang&url=https%3A%2F%2Fmerrier.wang)](https://merrier.wang)
