@@ -53,6 +53,9 @@
 
 ## Annual summary
 
+* [2023](https://merrier.wang/20171231/goodbye-2023.html)
+* [2022](https://merrier.wang/20171231/goodbye-2022.html)
+* [2021](https://merrier.wang/20171231/goodbye-2021.html)
 * [2020](https://merrier.wang/20171231/goodbye-2020.html)
 * [2019](https://merrier.wang/20171231/goodbye-2019.html)
 * [2018](https://merrier.wang/20171231/goodbye-2018.html)
